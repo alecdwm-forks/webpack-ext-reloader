@@ -59,7 +59,7 @@
     "lodash": "^4.17.21",
     "minimist": "^1.2.6",
     "useragent": "^2.3.0",
-    "webextension-polyfill": "^0.8.0",
+    "webextension-polyfill": "^0.9.0",
     "webpack-sources": "^3.2.3",
     "ws": "^8.4.2"
   },
